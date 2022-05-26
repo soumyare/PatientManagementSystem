@@ -39,6 +39,6 @@ git init,
 git status,
 git add . ,
 git commit -m "some comment" ,
-git remote add 
-git branch -M main
+git remote add origin https://github.com/soumyare/PatientManagementSystem.git ,
+git branch -M main ,
 git push -u origin main
